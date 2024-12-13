@@ -1,0 +1,8 @@
+ΙΩΑΝΝΗΣ ΚΑΚΑΤΣΟΣ - 3180059
+ΛΑΜΠΡΟΣ ΣΤΑΥΡΟΣ ΚΟΥΤΣΙΟΥΚΗΣ - 3180090
+Endpoint: database-1.cmjeh9e0xysh.us-east-1.rds.amazonaws.com
+Username: examiner
+Password: examiner
+Database: myDB1
+
+Οι πίνακες του project ανήκουν στο schema movies.
